@@ -1,0 +1,7 @@
+*.mp4
+*.ts
+*.mov
+*.log
+*.mbtree
+.DS_Store
+
